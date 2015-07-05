@@ -287,6 +287,10 @@ section.has-dark-background a:hover {
 .reveal .controls div.navigate-down.enabled:hover {
   border-top-color: #9C5CDC; }
 
+.reveal .logo {
+  height: 50px;
+}
+
 /*********************************************
  * PROGRESS BAR
  *********************************************/
